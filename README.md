@@ -16,13 +16,15 @@ Además, integra tecnología **.NET** para el desarrollo de la aplicación de ge
 
 ## 📸 Diagramas
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 10px;">
   <img src="otros/imagenes/diagramaP.png" alt="Circuito" width="150">
   <img src="otros/imagenes/diagramaInicio.png" alt="Pantalla de inicio" width="150">
   <img src="otros/imagenes/diagramaCU.png" alt="Pantalla para crear usuario" width="150">
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: center;">
   <img src="otros/imagenes/diagrama pulso.png" alt="Pantalla para ver el pulso" width="150">
   <img src="otros/imagenes/diagramaHistorial.png" alt="Pantalla para ver el historial" width="150">
 </div>
-
 
 
