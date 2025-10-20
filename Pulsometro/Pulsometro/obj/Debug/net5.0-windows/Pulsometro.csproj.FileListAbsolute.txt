@@ -1,0 +1,11 @@
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.csproj.AssemblyReference.cache
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.Form1.resources
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.Form2.resources
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.Form3.resources
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.Form4.resources
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.Properties.Resources.resources
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.csproj.GenerateResource.cache
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.AssemblyInfoInputs.cache
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.AssemblyInfo.cs
+C:\Users\amgos\OneDrive\Imágenes\Pulsometro\Pulsometro\obj\Debug\net5.0-windows\Pulsometro.csproj.CoreCompileInputs.cache
