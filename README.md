@@ -16,5 +16,8 @@ Además, integra tecnología **.NET** para el desarrollo de la aplicación de ge
 
 ## 📸 Diagramas
 
-![Montaje del circuito](images/montaje.jpg)
-![Resultado en la pantalla LCD](images/resultado.jpg)
+![Circuito](imagenes/diagramaP.png)
+![Pantalla de inicio](imagenes/diagramaInicio.png)
+![Pantalla para crear usuario](imagenes/diagramaCU.png)
+![Pantalla para ver el pulso](imagenes/diagrama_Pulso.png)
+![Pantalla para ver el historial](imagenes/diagramaHistorial.png)
