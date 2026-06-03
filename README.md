@@ -19,7 +19,7 @@ An end-to-end medical IoT system designed to monitor, store, and process real-ti
 The embedded hardware processes analog signals from the heart rate sensor while driving an LCD over the I2C bus via pins `A4` (SDA) and `A5` (SCL):
 
 <p align="center">
-  <img src="img/diagra.jpeg" width="70%" alt="Proteus Hardware Schematic" />
+  <img src="otros/imagenes/diagra.jpeg" width="70%"  />
 </p>
 
 ---
