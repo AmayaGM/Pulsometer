@@ -39,12 +39,12 @@ The firmware is written in native **C/C++** and stands out due to its low-level 
 The companion desktop application acts as the data management platform, receiving raw metrics via serial communication to visualize telemetry data and manage patient records.
 
 <p align="center">
-  <img src="img/App1.jpg" width="48%" alt="Application View 1" />
-  <img src="img/App2.jpg" width="48%" alt="Application View 2" />
+  <img src="otros/imagenes/diagramaInicio.png" width="45%" alt="Application View 1" />
+  <img src="otros/imagenes/diagramaCU.png" width="45%" alt="Application View 2" />
 </p>
 <p align="center">
-  <img src="img/App3.jpg" width="48%" alt="Application View 3" />
-  <img src="img/App4.jpg" width="48%" alt="Application View 4" />
+  <img src="otros/imagenes/diagramaInicio.png" width="45%" alt="Application View 3" />
+  <img src="otros/imagenes/diagramaHistorial.png" width="45%" alt="Application View 4" />
 </p>
 
 ---
